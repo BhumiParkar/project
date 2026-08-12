@@ -1,0 +1,9 @@
+products=[]
+for i in range(10):
+    prob=input("enter a product ")
+    products.append(prob)
+    com=input("enter a company ")
+    products.append(com)
+    
+
+print(products)
